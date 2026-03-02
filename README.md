@@ -12,7 +12,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 
 ### 🏗️ Fondamenta della Comunicazione
 * 📖 **[Dizionario degli Autori](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Dizionario-Autori-Media.md)**: I profili di Watzlawick, Goffman, Hall e altri protagonisti.
-* 🗺️ **[Mappa dell'Interazione](Mappa-Interazione-Comunicativa.md)**: Integrazione tra Cultura, CNV e Pragmatica.
+* 🗺️ **[Mappa dell'Interazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Mappa-Interazione-Comunicativa.md)**: Integrazione tra Cultura, CNV e Pragmatica.
 
 ---
 *Ultimo aggiornamento: Marzo 2026*
