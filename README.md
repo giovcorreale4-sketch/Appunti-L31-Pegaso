@@ -18,6 +18,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 
 ### 📺Teorie Classiche e Media di Massa
  * 🎯 **[La Teoria Ipodermica e il Modello di Lasswell](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Ipodermica-Lasswell.md)**:  Il potere assoluto dei media e le origini della Communication Research.
+ * 👥 **[Gli Effetti Limitati e il Flusso a Due Stadi](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Effetti-Limitati-Two-Step-Flow.md)**:  La riscoperta del gruppo sociale.
 
 
 ---
