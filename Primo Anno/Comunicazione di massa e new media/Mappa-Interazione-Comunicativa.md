@@ -53,4 +53,4 @@ Nella realtà di tutti i giorni, questi tre pilastri formano un **sistema circol
 
 ---
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md)
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) 
