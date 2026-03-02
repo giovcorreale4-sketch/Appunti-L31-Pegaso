@@ -13,6 +13,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 ### 🏗️ Fondamenta della Comunicazione
 * 📖 **[Dizionario degli Autori](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Dizionario-Autori-Media.md)**: I profili di Watzlawick, Goffman, Hall e altri protagonisti.
 * 🗺️ **[Mappa dell'Interazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Mappa-Interazione-Comunicativa.md)**: Integrazione tra Cultura, CNV e Pragmatica.
+* 🧠 **[I 5 Assiomi della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Assiomi-Palo-Alto.md)**: I 5 Assiomi della Comunicazione (Scuola di Palo Alto).
 
 ---
 *Ultimo aggiornamento: Marzo 2026*
