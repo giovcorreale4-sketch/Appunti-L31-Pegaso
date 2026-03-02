@@ -80,3 +80,7 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 | **Morris** | Studio dei segni | Pragmatica |
 | **Thompson** | Trasformazione dei media | Mediatizzazione |
 | **Simmel** | Connessione visiva | Sguardo |
+
+---
+### 🧭 Navigazione Rapida
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🗺️ Mappa](Mappa-Interazione-Comunicativa.md) | 
