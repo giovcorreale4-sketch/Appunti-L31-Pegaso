@@ -39,4 +39,4 @@ Gli assiomi definiti da Watzlawick e colleghi spiegano perché ogni interazione 
 ---
 
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md)
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md)
