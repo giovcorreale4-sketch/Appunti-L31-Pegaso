@@ -11,7 +11,7 @@ Raccolta di appunti e progetti per il corso di Informatica L-31
 Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolti gli schemi e le mappe concettuali estratti dalle lezioni Pegaso.
 
 ### 🏗️ Fondamenta della Comunicazione
-* 📖 **[Dizionario degli Autori](Primo-Anno/Comunicazione-Massa/Dizionario-Autori-Media.md)**: I profili di Watzlawick, Goffman, Hall e altri protagonisti.
+* 📖 **[Dizionario degli Autori](PrimoAnno/ComunicazioneMassa/Dizionario-Autori-Media.md)**: I profili di Watzlawick, Goffman, Hall e altri protagonisti.
 * 🗺️ **[Mappa dell'Interazione](Mappa-Interazione-Comunicativa.md)**: Integrazione tra Cultura, CNV e Pragmatica.
 
 ---
