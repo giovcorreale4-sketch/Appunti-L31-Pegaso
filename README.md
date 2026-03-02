@@ -17,7 +17,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 * 🏛️ **[Sintesi Fondamenti della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Sintesi-Fondamenti-Comunicazione.md)**: Riepilogo Concettuale.
 
 ### 📺Teorie Classiche e Media di Massa
- * 
+ * 🎯 **[La Teoria Ipodermica e il Modello di Lasswell](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Ipodermica-Lasswell.md)**:  Il potere assoluto dei media e le origini della Communication Research.
 
 
 ---
