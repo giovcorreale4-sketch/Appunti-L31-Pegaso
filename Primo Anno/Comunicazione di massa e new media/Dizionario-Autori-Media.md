@@ -99,6 +99,7 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 | **Simmel** | Connessione visiva | Sguardo |
 | **Lazarsfeld** | Flusso a due stadi	| Effetti dei Media |
 | **Merton** | Leadership |	 Leader Locale vs Cosmopolita |
+| **Adorno & Horkheimer** | Critica |	Oggetti da manipolare |
 
 ---
 ### 🧭 Navigazione Rapida
