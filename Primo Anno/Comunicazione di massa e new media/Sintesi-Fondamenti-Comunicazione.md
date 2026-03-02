@@ -70,4 +70,4 @@ La vita sociale come una performance teatrale.
 ---
 
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario Autori](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🧠 Assiomi Palo Alto](Assiomi-Palo-Alto.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md)
+[🏠 Home Indice](../../README.md) | [📖 Dizionario Autori](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🧠 Assiomi Palo Alto](Assiomi-Palo-Alto.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) 
