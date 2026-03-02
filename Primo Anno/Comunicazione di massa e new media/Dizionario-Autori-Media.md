@@ -63,6 +63,22 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 * **Concetto chiave:** Comunicazione come **"sistema"** complesso.
 * **Importanza:** Mette in relazione l'evoluzione tecnologica dei media con il mutamento della sensibilità sociale dei pubblici.
 
+#### **Paul Lazarsfeld**
+* **Teoria:** Teoria degli Effetti Limitati / Flusso di comunicazione a due stadi.
+* **Concetto chiave:** Il Leader d'Opinione come mediatore tra media e pubblico.
+* **Importanza:** È il padre della ricerca empirica sui media. Ha dimostrato che i media non manipolano le persone come "proiettili", ma che l'influenza più forte deriva dai rapporti sociali e interpersonali.
+
+#### **Robert Merton**
+* **Teoria:** Sociologia della comunicazione e leadership d'opinione.
+* **Concetto chiave:** Distinzione tra Leader Locale e Leader Cosmopolita.
+* **Importanza:** Ha raffinato lo studio sull'influenza personale, spiegando come diverse figure di riferimento operino all'interno della comunità: chi è radicato nel territorio (locale) e chi invece porta idee dal mondo esterno (cosmopolita).
+
+#### **Harold Lasswell**
+* **Teoria:** Modello delle 5 W (Paradigma di Lasswell).
+* **Concetto chiave:** La scomposizione dell'atto comunicativo in cinque domande: Chi, dice che cosa, attraverso quale canale, a chi, con quale effetto?
+* **Importanza:** Ha trasformato la ricerca sulla comunicazione in una disciplina analitica. Sebbene la sua visione fosse ancora asimmetrica (emittente attivo e ricevente passivo), il suo modello ha permesso di dividere il campo in settori specifici: lo studio degli emittenti, del contenuto, dei mezzi, dell'audience e degli effetti.
+
+
 ---
 
 ### 📌 Tabella di Sintesi per il Ripasso
@@ -75,6 +91,8 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 | **Morris** | Studio dei segni | Pragmatica |
 | **Thompson** | Trasformazione dei media | Mediatizzazione |
 | **Simmel** | Connessione visiva | Sguardo |
+| **Lazarsfeld** | Flusso a due stadi	| Effetti dei Media |
+| **Merton** | Leadership |	 Leader Locale vs Cosmopolita |
 
 ---
 ### 🧭 Navigazione Rapida
