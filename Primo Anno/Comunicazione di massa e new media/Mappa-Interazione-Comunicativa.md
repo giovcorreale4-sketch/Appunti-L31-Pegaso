@@ -50,3 +50,7 @@ Nella realtà di tutti i giorni, questi tre pilastri formano un **sistema circol
 | **Pragmatica** | Impatto sul comportamento | L'Esecuzione |
 
 > **Conclusione:** Ogni interazione è una danza costante tra ciò che **sappiamo** (Cultura), ciò che **mostriamo** (CNV) e l'**effetto** che produciamo (Pragmatica).
+
+---
+### 🧭 Navigazione Rapida
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🗺️ Mappa](Mappa-Interazione-Comunicativa.md) | 
