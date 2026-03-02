@@ -103,4 +103,4 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 
 ---
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [🗺️ Mappa](Mappa-Interazione-Comunicativa.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) 
+[🏠 Home Indice](../../README.md) | [🗺️ Mappa](Mappa-Interazione-Comunicativa.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md)
