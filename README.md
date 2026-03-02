@@ -16,6 +16,9 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 * 🧠 **[I 5 Assiomi della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Assiomi-Palo-Alto.md)**: I 5 Assiomi della Comunicazione (Scuola di Palo Alto).
 * 🏛️ **[Sintesi Fondamenti della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Sintesi-Fondamenti-Comunicazione.md)**: Riepilogo Concettuale.
 
+### 📺Teorie Classiche e Media di Massa
+ * 
+
 
 ---
 *Ultimo aggiornamento: Marzo 2026*
