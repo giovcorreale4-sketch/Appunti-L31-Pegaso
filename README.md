@@ -4,7 +4,7 @@ Raccolta di appunti e progetti per il corso di Informatica L-31
 
 # 📡 Esame: Comunicazione di Massa e New Media
 **Studente:** Giovanni Correale (Matr. 0312402288)
-**Data Esame:** 18 Marzo 2026
+![Status](https://img.shields.io/badge/Esame-18_Marzo-red)
 
 ## 📌 Indice del materiale di studio
 
