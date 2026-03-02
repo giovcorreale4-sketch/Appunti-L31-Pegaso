@@ -53,4 +53,4 @@ Nella realtà di tutti i giorni, questi tre pilastri formano un **sistema circol
 
 ---
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🗺️ Mappa](Mappa-Interazione-Comunicativa.md) | 
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | 
