@@ -78,6 +78,12 @@ Questo dizionario raccoglie i principali teorici analizzati durante le prime 5 l
 * **Concetto chiave:** La scomposizione dell'atto comunicativo in cinque domande: Chi, dice che cosa, attraverso quale canale, a chi, con quale effetto?
 * **Importanza:** Ha trasformato la ricerca sulla comunicazione in una disciplina analitica. Sebbene la sua visione fosse ancora asimmetrica (emittente attivo e ricevente passivo), il suo modello ha permesso di dividere il campo in settori specifici: lo studio degli emittenti, del contenuto, dei mezzi, dell'audience e degli effetti.
 
+#### **Max Horkheimer & Theodor Adorno**
+* **Opera Chiave:** *Dialettica dell’Illuminismo* (1947).
+* **Concetto chiave:** L'annullamento dell'autonomia individuale attraverso l'industria culturale.
+* **Importanza:** Hanno denunciato il lato oscuro dei media, vedendoli non come progresso, ma come strumenti di alienazione e controllo psicologico.
+
+
 
 ---
 
