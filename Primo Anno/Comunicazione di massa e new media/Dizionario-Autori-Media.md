@@ -1,8 +1,3 @@
-![Status](https://img.shields.io/badge/Esame-18_Marzo-red)
-
-
-
-
 # 📖 Dizionario degli Autori: Sociologia della Comunicazione
 ## Corso di Comunicazione di Massa e New Media (L-31)
 
