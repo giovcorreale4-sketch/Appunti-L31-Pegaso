@@ -53,7 +53,7 @@ Nella realtà di tutti i giorni, questi tre pilastri formano un **sistema circol
 
 ---
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) |[📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) | [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md)  | [🌀 La Spirale del Silenzio](Spirale-del-Silenzio.md)
+[🏠 Home Indice](../../README.md) | [📖 Dizionario](Dizionario-Autori-Media.md) | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) |[📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) | [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md)  | [🌀 La Spirale del Silenzio](Spirale-del-Silenzio.md) | [📺 Teoria della Coltivazione](Teoria-della-Coltivazione.md)
  
 
 
