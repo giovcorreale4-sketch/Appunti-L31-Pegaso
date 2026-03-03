@@ -16,7 +16,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 * 🧠 **[I 5 Assiomi della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Assiomi-Palo-Alto.md)**: I 5 Assiomi della Comunicazione (Scuola di Palo Alto).
 * 🏛️ **[Sintesi Fondamenti della Comunicazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Sintesi-Fondamenti-Comunicazione.md)**: Riepilogo Concettuale.
 
-### 📺Teorie Classiche e Media di Massa
+### 📺 Teorie Classiche e Media di Massa
  * 🎯 **[La Teoria Ipodermica e il Modello di Lasswell](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Ipodermica-Lasswell.md)**:  Il potere assoluto dei media e le origini della Communication Research.
  * 👥 **[Gli Effetti Limitati e il Flusso a Due Stadi](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Effetti-Limitati-Two-Step-Flow.md)**:  La riscoperta del gruppo sociale.
  * 🏭 **[La Teoria Critica e l'Industria Culturale](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Critica-Industria-Culturale.md)**: Adorno e Horkheimer (Scuola di Francoforte).
@@ -24,7 +24,8 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 
  ### 🧐 Gli Effetti e il Potere dei Media
    * 🌡️ **[La Temperatura dei Media: Marshall McLuhan](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/La%20Temperatura%20dei%20Media.md)**: Media Caldi vs Media Freddi.
-   * 🌀 **[La Spirale del Silenzio](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Spirale-del-Silenzio.md)**:  Elisabeth Noelle-Neumann e il potere dell'allineamento sociale.
+   * 🌀 **[La Spirale del Silenzio](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Spirale-del-Silenzio.md)**: Elisabeth Noelle-Neumann e il potere dell'allineamento sociale.
+   * 📺 **[Teoria della Coltivazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-della-Coltivazione.md)**: George Gerbner e la Televisione come "Storyteller" sociale.
  
 
 ---
