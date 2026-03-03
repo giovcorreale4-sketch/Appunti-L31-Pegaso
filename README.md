@@ -24,7 +24,8 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
 
  ### 🧐 Gli Effetti e il Potere dei Media
    * 🌡️ **[La Temperatura dei Media: Marshall McLuhan](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/La%20Temperatura%20dei%20Media.md)**: Media Caldi vs Media Freddi.
-
+   * 🌀 **[La Spirale del Silenzio](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Spirale-del-Silenzio.md)**:  Elisabeth Noelle-Neumann e il potere dell'allineamento sociale.
+ 
 
 ---
 *Ultimo aggiornamento: Marzo 2026*
