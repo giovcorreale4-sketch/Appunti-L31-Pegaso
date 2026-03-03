@@ -31,4 +31,5 @@ Gli autori rifiutano il termine "cultura di massa" perché suggerisce una creazi
 
 
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) |  [📖 Dizionario Autori](Dizionario-Autori-Media.md)  | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md)  | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) |  [🎯 Teoria Ipodermica](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) 
+[🏠 Home Indice](../../README.md) |  [📖 Dizionario Autori](Dizionario-Autori-Media.md)  | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md)  | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) |  [🎯 Teoria Ipodermica](Teoria-Ipodermica-Lasswell.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) |  [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md) 
+
