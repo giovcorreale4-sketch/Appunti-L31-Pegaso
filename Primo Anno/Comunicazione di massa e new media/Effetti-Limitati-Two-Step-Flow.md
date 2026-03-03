@@ -40,5 +40,6 @@ La ricerca ha identificato tre meccanismi che proteggono l'individuo dalla manip
 ---
 
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) | [📖 Dizionario Autori](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🧠 Assiomi Palo Alto](Assiomi-Palo-Alto.md)  | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) 
+[🏠 Home Indice](../../README.md) | [📖 Dizionario Autori](Dizionario-Autori-Media.md) | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md) | [🧠 Assiomi Palo Alto](Assiomi-Palo-Alto.md)  | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) | [🎯 La Teoria Ipodermica e il Modello di Lasswell](Teoria-Ipodermica-Lasswell.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) |  [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md) 
+
 
