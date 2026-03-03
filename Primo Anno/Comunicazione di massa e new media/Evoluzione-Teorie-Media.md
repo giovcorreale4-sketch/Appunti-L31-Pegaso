@@ -34,15 +34,6 @@ Questo documento riassume il percorso teorico dai "media onnipotenti" alla risco
 * **Encoding-Decoding:** Tre letture possibili: Egemonica, Negoziata, Oppositiva.
 * **Metodo Etnografico:** Studio della televisione nel contesto familiare.
 
-### 7. Scuola di Toronto (McLuhan, Innis)
-* **Il Medium è il Messaggio:** La tecnologia modifica la percezione umana più del contenuto.
-* **Villaggio Globale:** La contrazione del mondo grazie ai media elettrici.
-
-
-
-### 8. La Spirale del Silenzio (Noelle-Neumann)
-* **Paura dell'isolamento:** Si tace se si pensa di essere in minoranza.
-* **Competenza Quasi-Statistica:** Monitoraggio costante del "clima d'opinione".
 
 
 
@@ -56,7 +47,7 @@ Questo documento riassume il percorso teorico dai "media onnipotenti" alla risco
 | **Effetti Limitati** | Basso | Attivo (Gruppo sociale) | Anni '40/'50 |
 | **Critica** | Manipolatorio | Oggetto di consumo | Anni '40/'60 |
 | **Cultural Studies** | Negoziato | Attivo (Decodifica) | Anni '70 |
-| **Spirale Silenzio** | Forte | Influenzato dal clima | Anni '70/'80 |
+
 
 ---
 
