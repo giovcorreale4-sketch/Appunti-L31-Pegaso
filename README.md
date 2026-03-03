@@ -20,7 +20,7 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
  * 🎯 **[La Teoria Ipodermica e il Modello di Lasswell](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Ipodermica-Lasswell.md)**:  Il potere assoluto dei media e le origini della Communication Research.
  * 👥 **[Gli Effetti Limitati e il Flusso a Due Stadi](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Effetti-Limitati-Two-Step-Flow.md)**:  La riscoperta del gruppo sociale.
  * 🏭 **[La Teoria Critica e l'Industria Culturale](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-Critica-Industria-Culturale.md)**: Adorno e Horkheimer (Scuola di Francoforte).
- * 📡 **[Evoluzione delle Teorie della Comunicazione di Massa](Pegaso/blob/main/Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Evoluzione-Teorie-Media.md)**: Sintesi Completa: Dalla Società di Massa alla Spirale del Silenzio 
+ * 📡 **[Evoluzione delle Teorie della Comunicazione di Massa](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Evoluzione-Teorie-Media.md)**: Sintesi Completa: Dalla Società di Massa alla Spirale del Silenzio 
 
 
 ---
