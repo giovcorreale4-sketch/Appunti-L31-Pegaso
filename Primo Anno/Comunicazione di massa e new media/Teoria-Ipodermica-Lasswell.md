@@ -43,7 +43,7 @@ Nonostante il rigore metodologico, il modello di Lasswell eredita i limiti della
 ---
 
 ### 🧭 Navigazione Rapida
-[🏠 Home Indice](../../README.md) |  [📖 Dizionario Autori](Dizionario-Autori-Media.md)  | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md)  | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) |  [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md)  | [🌀 La Spirale del Silenzio](Spirale-del-Silenzio.md) | [📺 Teoria della Coltivazione](Teoria-della-Coltivazione.md)
+[🏠 Home Indice](../../README.md) |  [📖 Dizionario Autori](Dizionario-Autori-Media.md)  | [🗺️ Mappa Interazione](Mappa-Interazione-Comunicativa.md)  | [🧠 I 5 Assiomi](Assiomi-Palo-Alto.md) | [🏛️ Sintesi Fondamenti](Sintesi-Fondamenti-Comunicazione.md) | [👥 Gli Effetti Limitati e il Flusso a Due Stadi](Effetti-Limitati-Two-Step-Flow.md) | [🏭 La Teoria Critica e l'Industria Culturale](Teoria-Critica-Industria-Culturale.md) | [📡 Evoluzione delle Teorie della Comunicazione di Massa](Evoluzione-Teorie-Media.md) |  [🌡️ La Temperatura dei Media: Marshall McLuhan](La%20Temperatura%20dei%20Media.md)  | [🌀 La Spirale del Silenzio](Spirale-del-Silenzio.md) | [📺 Teoria della Coltivazione](Teoria-della-Coltivazione.md) | [📅 L'Agenda Setting e l'Agenda Building](L-Agenda-Setting-e-l-Agenda-Building.md)
 
 
 
