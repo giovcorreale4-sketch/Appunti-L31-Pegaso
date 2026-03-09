@@ -29,8 +29,8 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
   * 📅 **[L'Agenda Setting e l'Agenda Building](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/L-Agenda-Setting-e-l-Agenda-Building.md)**:  McCombs, Shaw e la gerarchia delle notizie.
 
 ### 🌐 La Rete e i Social Network
- * 🌐 [La Network Society (Società in Rete)](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Network-Society.md)**: Manuel Castells e il nuovo paradigma sociale.
- * 🤳 [Identità e Performance nei Social Media](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Identita-Digitale-Social.md)**: Dalla Ribalta di Goffman al Profilo Algoritmico.
+ * 🌐 **[La Network Society (Società in Rete)](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Network-Society.md)**: Manuel Castells e il nuovo paradigma sociale.
+ * 🤳 **[Identità e Performance nei Social Media](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Identita-Digitale-Social.md)**: Dalla Ribalta di Goffman al Profilo Algoritmico.
  
 
 ---
