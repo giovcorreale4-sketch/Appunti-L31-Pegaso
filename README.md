@@ -23,10 +23,13 @@ Benvenuto nel repository dedicato alla preparazione dell'esame. Qui sono raccolt
  * 📡 **[Evoluzione delle Teorie della Comunicazione di Massa](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Evoluzione-Teorie-Media.md)**: Sintesi Completa: Dalla Società di Massa alla Spirale del Silenzio.
 
  ### 🧐 Gli Effetti e il Potere dei Media
-   * 🌡️ **[La Temperatura dei Media: Marshall McLuhan](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/La%20Temperatura%20dei%20Media.md)**: Media Caldi vs Media Freddi.
-   * 🌀 **[La Spirale del Silenzio](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Spirale-del-Silenzio.md)**: Elisabeth Noelle-Neumann e il potere dell'allineamento sociale.
-   * 📺 **[Teoria della Coltivazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-della-Coltivazione.md)**: George Gerbner e la Televisione come "Storyteller" sociale.
-   * 📅 **[L'Agenda Setting e l'Agenda Building](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/L-Agenda-Setting-e-l-Agenda-Building.md)**:  McCombs, Shaw e la gerarchia delle notizie.
+  * 🌡️ **[La Temperatura dei Media: Marshall McLuhan](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/La%20Temperatura%20dei%20Media.md)**: Media Caldi vs Media Freddi.
+  * 🌀 **[La Spirale del Silenzio](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Spirale-del-Silenzio.md)**: Elisabeth Noelle-Neumann e il potere dell'allineamento sociale.
+  * 📺 **[Teoria della Coltivazione](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Teoria-della-Coltivazione.md)**: George Gerbner e la Televisione come "Storyteller" sociale.
+  * 📅 **[L'Agenda Setting e l'Agenda Building](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/L-Agenda-Setting-e-l-Agenda-Building.md)**:  McCombs, Shaw e la gerarchia delle notizie.
+
+### 🌐 La Rete e i Social Network
+ * 🌐 [La Network Society (Società in Rete)](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media/Network-Society.md)**: Manuel Castells e il nuovo paradigma sociale.
  
 
 ---
