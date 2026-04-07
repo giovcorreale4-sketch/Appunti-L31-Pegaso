@@ -7,8 +7,8 @@ Benvenuto nella repository dedicata alla preparazione degli esami del corso di l
 
 | Materia | Stato | Risorse |
 | :--- | :---: | :--- |
-| **📡 Comunicazione di Massa** | ✅ | [Vai alla Cartella](Primo%20Anno/%20Matematica-discreta) |
-| **🧮 Matematica Discreta** | 🟢 | [Vai alla Cartella](/Matematica-Discreta/) |
+| **📡 Comunicazione di Massa** | ✅ | [Vai alla Cartella](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media) |
+| **🧮 Matematica Discreta** | 🟢 | [Vai alla Cartella](Primo%20Anno/%20Matematica-discreta) |
 | **🔌 Reti e Cybersecurity** | ⚪ | [In Arrivo...](#) |
 
 ---
