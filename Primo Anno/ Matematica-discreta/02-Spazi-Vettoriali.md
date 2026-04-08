@@ -44,4 +44,4 @@ Una **Base** è il "kit minimo" di vettori per costruire tutto lo spazio.
 2. **Trovare la Dimensione:** - È uguale al **rango** della matrice formata dai vettori.
 
 ---
-[🏠 Torna all'indice del corso](./README.md)
+[🏠 Torna all'indice del corso](README.md)
