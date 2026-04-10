@@ -43,6 +43,9 @@ Come gestiamo i file grandi divisi in blocchi:
 
 * **ECB (Electronic Codebook):** Ogni blocco è cifrato da solo. **Insicuro** perché pattern uguali creano cifrati uguali (es. in un'immagine si vedrebbero ancora le sagome).
 * **CBC (Cipher Block Chaining):** Ogni blocco è concatenato al precedente. **Sicuro** perché nasconde i pattern ripetuti.
+---
 
+### 🧭 Navigazione
+[🏠 Home Indice](../../README.md) |
 
 
