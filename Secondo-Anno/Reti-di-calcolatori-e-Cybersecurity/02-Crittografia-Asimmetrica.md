@@ -44,5 +44,5 @@ Non serve per mandare messaggi, ma per **generare una chiave segreta comune** tr
 | **Simmetrica** | Molto Veloce | Difficile | Cifratura di grandi file |
 | **Asimmetrica** | Lenta | Molto Facile | Firma digitale e Login |
 
----
-[🏠 Torna alla Home](../README.md)
+### 🧭 Navigazione
+[🏠 Home Indice](../../README.md) |
