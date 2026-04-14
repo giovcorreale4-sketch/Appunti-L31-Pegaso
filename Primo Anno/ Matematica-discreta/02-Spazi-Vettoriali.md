@@ -36,12 +36,7 @@ Una **Base** è il "kit minimo" di vettori per costruire tutto lo spazio.
 
 
 
----
 
-## 🛠 Procedure d'Esame
-1. **Verificare se un insieme è una Base:** - Conta i vettori (devono essere pari alla dimensione dello spazio).
-   - Verifica l'indipendenza lineare (calcola il determinante).
-2. **Trovare la Dimensione:** - È uguale al **rango** della matrice formata dai vettori.
 
 ---
 [🏠 Home Indice](../../README.md)
