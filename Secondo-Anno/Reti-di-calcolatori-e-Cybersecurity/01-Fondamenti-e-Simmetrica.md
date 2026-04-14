@@ -46,6 +46,6 @@ Come gestiamo i file grandi divisi in blocchi:
 ---
 
 ### 🧭 Navigazione
-[🏠 Home Indice](../../README.md) |
+[🏠 Home Indice](../../README.md) | [➡️ Prossimo: Crittografia Asimmetrica](02-Crittografia-Asimmetrica.md)
 
 
