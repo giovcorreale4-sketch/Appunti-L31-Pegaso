@@ -10,15 +10,47 @@ def cifrario_cesare(testo, shift):
             risultato += char
     return risultato
 
-# Simulazione semplificata RSA
-def genera_modulo_rsa(p, q):
+# Simulazione  RSA
+import math
+
+def is_prime(num):
+    """Controlla se un numero è primo (implementazione semplice)."""
+    if num < 2:
+        return False
+    for i in range(2, int(math.sqrt(num)) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+def genera_modulo_rsa(p: int, q: int) -> dict:
+    """
+    Genera il modulo RSA e la funzione di Eulero.
+    
+    Args:
+        p (int): Numero primo.
+        q (int): Numero primo diverso da p.
+    
+    Returns:
+        dict: {'n': modulo pubblico, 'phi': funzione di Eulero}
+    
+    Raises:
+        ValueError: Se p o q non sono primi o non validi.
+    """
+    if not isinstance(p, int) or not isinstance(q, int):
+        raise ValueError("p e q devono essere interi.")
+    if p == q:
+        raise ValueError("p e q devono essere diversi.")
+    if not is_prime(p) or not is_prime(q):
+        raise ValueError("p e q devono essere numeri primi.")
+    
     n = p * q
     phi = (p - 1) * (q - 1)
+    
     print(f"Numeri Primi scelti: p={p}, q={q}")
     print(f"Modulo n (Pubblico): {n}")
     print(f"Funzione Toziente phi (Segreta): {phi}")
-    return n
-
+    
+    return {'n': n, 'phi': phi}
 
 # Simulazione Diffie-Hellman
 def diffie_hellman():
