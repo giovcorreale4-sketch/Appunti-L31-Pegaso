@@ -39,4 +39,4 @@ Una **Base** è il "kit minimo" di vettori per costruire tutto lo spazio.
 
 
 ---
-[🏠 Home Indice](../../README.md)
+[🏠 Home Indice](../../README.md) [➡️ Prossimo: Sistemi-Lineari ](03-Sistemi-Lineari.md)
