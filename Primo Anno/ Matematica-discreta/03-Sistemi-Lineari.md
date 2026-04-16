@@ -46,7 +46,6 @@ Dato un sistema $Ax = b$:
 2. Se $rk(A) = rk(A|b) = n$ (numero incognite) ➡️ **Determinato** (1 soluzione).
 3. Se $rk(A) = rk(A|b) < n$ ➡️ **Indeterminato** ($\infty$ soluzioni).
 
----
 
 
 ---
