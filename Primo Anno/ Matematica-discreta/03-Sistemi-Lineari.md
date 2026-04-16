@@ -48,6 +48,10 @@ Dato un sistema $Ax = b$:
 
 ---
 
+
+---
+[🏠 Home Indice](../../README.md)
+
 ## 💻 Valore Aggiunto: Script di Verifica (Python)
 
 ```python
