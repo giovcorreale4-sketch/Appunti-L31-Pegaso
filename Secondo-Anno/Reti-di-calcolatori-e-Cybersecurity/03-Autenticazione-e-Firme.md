@@ -42,4 +42,7 @@ La firma digitale usa la **crittografia asimmetrica** al contrario.
 Come faccio a sapere che la chiave pubblica di "Alice" appartiene davvero ad lei?
 Interviene un terzo fidato: la **Certification Authority (CA)**, che emette un certificato (Standard X.509) che lega l'identità di una persona alla sua chiave pubblica.
 
+### 🧭 Navigazione
+[🏠 Home Indice](../../README.md) |
+
 
