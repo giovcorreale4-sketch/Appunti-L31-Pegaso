@@ -38,6 +38,11 @@ La Blockchain è un registro distribuito e immutabile che usa tutto ciò che abb
 2. **Firma Digitale:** Le transazioni sono firmate asimmetricamente (solo il proprietario della chiave privata può spendere i propri Bitcoin).
 3. **P2P:** Non esiste un server centrale; la sicurezza è garantita dalla rete.
 
+---
+
+### 🧭 Navigazione
+[🏠 Home Indice](../../README.md) |
+
 
 
 ---
