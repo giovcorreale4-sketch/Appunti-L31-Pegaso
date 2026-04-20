@@ -47,6 +47,9 @@ Ogni applicazione lineare dipende dalle basi scelte per $V$ e $W$. Cambiando le 
 ## 💻 Valore Aggiunto: Calcolo di Ker e Im (Python)
 > In un esame, trovare una base per il Nucleo significa risolvere il sistema omogeneo $Ax = 0$. Ecco come farlo velocemente per verifica:
 
+---
+[🏠 Home Indice](../../README.md)
+
 ```python
 import numpy as np
 from scipy.linalg import null_space
