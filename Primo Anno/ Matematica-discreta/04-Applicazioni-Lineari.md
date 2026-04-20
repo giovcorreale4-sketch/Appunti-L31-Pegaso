@@ -40,6 +40,8 @@ Ogni applicazione lineare dipende dalle basi scelte per $V$ e $W$. Cambiando le 
 
 * **Matrice di Passaggio:** Serve per trasformare le coordinate di un vettore da una base $B$ a una base $B'$.
 
+---
+[🏠 Home Indice](../../README.md)
 
 
 ---
@@ -47,8 +49,7 @@ Ogni applicazione lineare dipende dalle basi scelte per $V$ e $W$. Cambiando le 
 ## 💻 Valore Aggiunto: Calcolo di Ker e Im (Python)
 > In un esame, trovare una base per il Nucleo significa risolvere il sistema omogeneo $Ax = 0$. Ecco come farlo velocemente per verifica:
 
----
-[🏠 Home Indice](../../README.md)
+
 
 ```python
 import numpy as np
@@ -66,3 +67,6 @@ im_dim = np.linalg.matrix_rank(A)
 
 print(f"Base del Nucleo:\n{ker}")
 print(f"Dimensione Immagine (Rango): {im_dim}")
+
+
+
