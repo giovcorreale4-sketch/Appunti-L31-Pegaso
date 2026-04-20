@@ -45,4 +45,4 @@ Non serve per mandare messaggi, ma per **generare una chiave segreta comune** tr
 | **Asimmetrica** | Lenta | Molto Facile | Firma digitale e Login |
 
 ### 🧭 Navigazione
-[🏠 Home Indice](../../README.md) |
+[🏠 Home Indice](../../README.md) |  [➡️ Prossimo:Autenticazione e Firme](03-Autenticazione-e-Firme.md)
