@@ -78,7 +78,8 @@ diffie_hellman()
 
 
 # Laboratorio Hash (Python)
-import hashlib
+ import hashlib
+
 def genera_hash(messaggio):
     # Usiamo SHA-256
     hash_obj = hashlib.sha256(messaggio.encode())
