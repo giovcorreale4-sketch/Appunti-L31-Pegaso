@@ -49,7 +49,7 @@ Dato un sistema $Ax = b$:
 
 
 ---
-[🏠 Home Indice](../../README.md)
+[🏠 Home Indice](../../README.md) [➡️ Prossimo:Applicazioni Lineari e Matrici Associate](04-Applicazioni-Lineari.md)
 
 ## 💻 Valore Aggiunto: Script di Verifica (Python)
 
