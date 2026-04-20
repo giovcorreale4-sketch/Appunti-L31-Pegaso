@@ -77,3 +77,17 @@ def diffie_hellman():
 diffie_hellman()
 
 
+# Laboratorio Hash (Python)
+import hashlib
+
+def genera_hash(messaggio):
+    # Usiamo SHA-256
+    hash_obj = hashlib.sha256(messaggio.encode())
+    return hash_obj.hexdigest()
+
+testo1 = "Bonifico di 100 euro a Mario"
+testo2 = "Bonifico di 100 euro a Maria" # Cambia solo una lettera
+
+print(f"Hash 1: {genera_hash(testo1)}")
+print(f"Hash 2: {genera_hash(testo2)}")
+
