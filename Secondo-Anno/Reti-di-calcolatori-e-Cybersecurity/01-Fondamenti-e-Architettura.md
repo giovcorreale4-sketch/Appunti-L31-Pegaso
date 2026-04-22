@@ -41,6 +41,12 @@ L'informatica usa i livelli per gestire la complessità. Ogni livello offre un s
 
 ### 📦 4. Incapsulamento
 Quando invii un dato, esso scende lo stack e ogni livello aggiunge un **Header** (intestazione) con le informazioni di controllo. Quando arriva a destinazione, lo stack viene risalito e gli header rimossi.
+
+---
+
+### 💻 Laboratorio nel Terminale:
+
+1. **Test del Ritardo:** Apri il terminale e scrivi `ping google.com`. Vedrai il **RTT (Round Trip Time)**, ovvero il tempo totale di andata e ritorno.
 ---
 
 ### 🧭 Navigazione
