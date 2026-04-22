@@ -46,7 +46,8 @@ Quando invii un dato, esso scende lo stack e ogni livello aggiunge un **Header**
 
 ### 💻 Laboratorio nel Terminale:
 
-1. **Test del Ritardo:** Apri il terminale e scrivi `ping google.com`. Vedrai il **RTT (Round Trip Time)**, ovvero il tempo totale di andata e ritorno.
+1. **Test della Latenza:** Digita ping google.com. Il valore che leggerai come RTT (Round Trip Time) indica quanti millisecondi impiega un pacchetto di dati a fare il "giro completo": dalla tua tastiera ai server di Google e ritorno.
+2. **Tracciamento del Percorso:** Digita tracert google.com . Qui vedrai i "salti" (hop) che fa il tuo pacchetto: ogni riga è un router diverso che i tuoi dati attraversano prima di raggiungere la destinazione finale.
 ---
 
 ### 🧭 Navigazione
