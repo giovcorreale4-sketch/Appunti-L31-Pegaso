@@ -19,8 +19,8 @@ I dati non viaggiano istantaneamente. Il ritardo totale è la somma di 4 compone
 
 1. **Ritardo di Elaborazione (Nodal Processing):** Tempo per controllare gli errori nell'header.
 2. **Ritardo di Accodamento (Queuing):** Tempo di attesa nel buffer del router (causa di congestione).
-3. **Ritardo di Trasmissione:** Tempo per "spingere" i bit sul canale ($L/R$, dove $L$ è la lunghezza del pacchetto e $R$ la velocità del link).
-4. **Ritardo di Propagazione:** Tempo fisico del segnale nel mezzo ($d/s$, distanza/velocità).
+3. **Ritardo di Trasmissione:** Tempo per "spingere" i bit sul canale $d_{trans} = \frac{L}{R}$ dove $L$ è la lunghezza del pacchetto e $R$ la velocità del link).
+4. **Ritardo di Propagazione:** Tempo fisico del segnale nel mezzo ($d_{prop} = \frac{d}{s}$, distanza/velocità).
 
 
 
@@ -46,8 +46,8 @@ Quando invii un dato, esso scende lo stack e ogni livello aggiunge un **Header**
 
 ### 💻 Laboratorio nel Terminale:
 
-1. **Test della Latenza:** Digita ping google.com. Il valore che leggerai come RTT (Round Trip Time) indica quanti millisecondi impiega un pacchetto di dati a fare il "giro completo": dalla tua tastiera ai server di Google e ritorno.
-2. **Tracciamento del Percorso:** Digita tracert google.com . Qui vedrai i "salti" (hop) che fa il tuo pacchetto: ogni riga è un router diverso che i tuoi dati attraversano prima di raggiungere la destinazione finale.
+1. **Test della Latenza:** Digita `ping google.com.` Il valore che leggerai come RTT (Round Trip Time) indica quanti millisecondi impiega un pacchetto di dati a fare il "giro completo": dalla tua tastiera ai server di Google e ritorno.
+2. **Tracciamento del Percorso:** `Digita tracert google.com.` Qui vedrai i "salti" (hop) che fa il tuo pacchetto: ogni riga è un router diverso che i tuoi dati attraversano prima di raggiungere la destinazione finale.
 ---
 
 ### 🧭 Navigazione
