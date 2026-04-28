@@ -51,5 +51,5 @@ Quando invii un dato, esso scende lo stack e ogni livello aggiunge un **Header**
 ---
 
 ### 🧭 Navigazione
-[🏠 Home Indice](../../README.md) |
+[🏠 Home Indice](../../README.md) |  [➡️ Prossimo: Sicurezza e Protocolli Standard](02-Protocolli-e-Sicurezza.md)
 
