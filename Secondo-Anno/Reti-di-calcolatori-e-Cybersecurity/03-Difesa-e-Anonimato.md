@@ -44,9 +44,4 @@ Tor (*The Onion Router*) è l'evoluzione più famosa dei sistemi di anonimato.
 | **Dark Web** | Software Tor / I2P | Forum anonimi, Market neri |
 
 ---
-
-### 💻 Valore Aggiunto GitHub: Curiosità Tecnica
-> Se vuoi testare l'anonimato (legalmente), puoi aggiungere questa nota: "Navigando con Tor Browser, il mio IP pubblico risulterà essere quello di un **Exit Node** situato in un altro paese, rendendo la mia attività non tracciabile dal server di destinazione."
-
----
 [🏠 Torna alla Home](../README.md)
