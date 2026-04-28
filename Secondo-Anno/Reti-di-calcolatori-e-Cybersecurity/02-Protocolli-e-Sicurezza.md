@@ -52,4 +52,4 @@ Il protocollo **SET (Secure Electronic Transaction)** è stato progettato per i 
 
 ---
 ### 🧭 Navigazione
-[🏠 Home Indice](../../README.md) |
+[🏠 Home Indice](../../README.md) |  [➡️ Prossimo:Firewall e Comunicazioni Anonime](03-Difesa-e-Anonimato.md)
