@@ -1,5 +1,5 @@
 # 🎓 Appunti Informatica L-31 (Pegaso)
-Benvenuto nella repository dedicata alla preparazione degli esami del corso di laurea.
+Benvenuto nella repository dedicata alla preparazione degli esami del corso di laurea. Qui è dove la teoria si trasforma in schemi logici e materiale di studio strutturato.
 
 ---
 
@@ -7,15 +7,17 @@ Benvenuto nella repository dedicata alla preparazione degli esami del corso di l
 
 | Materia | Stato | Risorse |
 | :--- | :---: | :--- |
-| **📡 Comunicazione di Massa** | ✅ | [Vai alla Cartella](Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media) |
-| **🧮 Matematica Discreta** | 🟢 | [Vai alla Cartella](Primo%20Anno/%20Matematica-discreta) |
-| **🔌 Reti e Cybersecurity** | 🟢 | [Vai alla Cartella](Secondo-Anno/Reti-di-calcolatori-e-Cybersecurity) |
+| **⚖️ Diritto per le Aziende Digitali** | 🟢 In Preparazione | [Vai alla Cartella](./Diritto-Aziende-Digitali/) |
+| **🧮 Matematica Discreta** | 🟡 In Pausa | [Vai alla Cartella](./Matematica-Discreta/) |
+| **📡 Reti di Calcolatori** | ✅ Superato  | [Vedi Appunti](./Reti-di-Calcolatori/) |
+| **🛡️ Cybersecurity** | ✅ Superato | [Vedi Appunti](./Cybersecurity-e-Reti/) |
 
 ---
 
-## 📅 Diario di Bordo
-* **18 Marzo:** Superato con successo l'esame di Comunicazione.
-* **Oggi:** Focalizzato su Spazi Vettoriali e Sistemi Lineari.
+## 📅 Diario di Bordo & Progressi
+* **Oggi:** Inizio ufficiale dello studio di *Diritto per le Aziende Digitali*. Focus sul Blocco 1 (Evoluzione del Diritto alla Riservatezza).
+* **Sessione Passata:** Archiviati con successo gli esami di Reti di Calcolatori e Cybersecurity! 🚀
+* **Obiettivo Futuro:** Riprendere in mano Matematica Discreta (Blocchi 1-4 già pronti, manca la Diagonalizzazione) dopo aver consolidato il nuovo esame.
 
 ---
-*Creato con ❤️ per sopravvivere alla sessione.*
+*Creato con ❤️ per sopravvivere alla sessione e tracciare la strada verso la laurea.*
