@@ -7,7 +7,7 @@ Benvenuto nella repository dedicata alla preparazione degli esami del corso di l
 
 | Materia | Stato | Risorse |
 | :--- | :---: | :--- |
-| **⚖️ Diritto per le Aziende Digitali** | 🟢 In Preparazione | [Vai alla Cartella](/Diritto-Aziende-Digitali/) |
+| **⚖️ Diritto per le Aziende Digitali** | 🟢 In Preparazione | [Vai alla Cartella](./Diritto-Aziende-Digitali) |
 | **🧮 Matematica Discreta** | 🟡 In Pausa | [Vai alla Cartella](./Matematica-Discreta/) |
 | **📡 Reti di Calcolatori** | ✅ Superato  | [Vedi Appunti](./Reti-di-Calcolatori/) |
 | **🛡️ Cybersecurity** | ✅ Superato | [Vedi Appunti](./Cybersecurity-e-Reti/) |
