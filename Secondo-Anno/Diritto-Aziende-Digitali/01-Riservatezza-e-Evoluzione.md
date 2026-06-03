@@ -46,4 +46,4 @@ La "nuova" privacy digitale poggia su solide basi legislative:
 | **GDPR** | Regolamento europeo direttamente applicabile negli Stati membri per la protezione dei dati. |
 
 ---
-[🏠 Torna alla Home](../README.md)
+[🏠 Torna alla Home](../../README.md)
