@@ -10,6 +10,7 @@ Benvenuto nella repository dedicata alla preparazione degli esami del corso di l
 | **⚖️ Diritto per le Aziende Digitali** | 🟢 In Preparazione | [Vai alla Cartella](Secondo-Anno/Diritto-Aziende-Digitali) |
 | **🧮 Matematica Discreta** | 🟡 In Pausa | [Vai alla Cartella](/Primo%20Anno/%20Matematica-discreta) |
 | **📡 Reti di Calcolatori e cybersecurity** | ✅ Superato  | [Vedi Appunti](/Secondo-Anno/Reti-di-calcolatori-e-Cybersecurity) |
+| **📺 Comunicazione di Massa** | ✅ Superato | [Vedi Appunti](/Primo%20Anno/Comunicazione%20di%20massa%20e%20new%20media) |
 
 
 ---
